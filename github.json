@@ -1,0 +1,59 @@
+{
+  "query": "GitHub trending repositories today",
+  "follow_up_questions": null,
+  "answer": null,
+  "images": [],
+  "results": [
+    {
+      "url": "https://github.com/trending",
+      "title": "Trending repositories on GitHub today",
+      "content": "GitHub is where people build software. More than 150 million people use GitHub to discover, fork, and contribute to over 420 million projects.",
+      "score": 0.9999603,
+      "raw_content": null
+    },
+    {
+      "url": "https://github.com/topics/trending-repositories",
+      "title": "trending-repositories · GitHub Topics",
+      "content": "Top 100 trending deep learning repositories sorted by the number of stars gained on a specific day. machine-learning deep-neural-networks deep-",
+      "score": 0.9999118,
+      "raw_content": null
+    },
+    {
+      "url": "https://git.news/",
+      "title": "GitNews | Trending repositories from GitHub, HackerNews & Reddit",
+      "content": "Trending repositories from GitHub, HackerNews & Reddit · tambo · aios-core · rowboat · minio · chrome-devtools-mcp · zvec · wifi-densepose · unstract.",
+      "score": 0.99963737,
+      "raw_content": null
+    },
+    {
+      "url": "https://x.com/trending_repos?lang=en",
+      "title": "Trending GitHub Repositories (@trending_repos) / Posts / X - Twitter",
+      "content": "Tweeting the most starred GitHub repository of the: day - every day, week - every Monday, month - every 1st of the month.",
+      "score": 0.9995272,
+      "raw_content": null
+    },
+    {
+      "url": "https://www.hostinger.com/tutorials/most-popular-github-repos",
+      "title": "15 Most Popular GitHub Repos for Developers in 2026 - Hostinger",
+      "content": "Top 15 Popular GitHub Repos · 1. freeCodeCamp/freeCodeCamp · 2. EbookFoundation/free-programming-books · 3. jwasham/coding-interview-university.",
+      "score": 0.9970421,
+      "raw_content": null
+    },
+    {
+      "url": "https://github.com/explore",
+      "title": "Explore GitHub",
+      "content": "Explore is your guide to finding your next project, catching up with what's trending, and connecting with the GitHub community.",
+      "score": 0.9896718,
+      "raw_content": null
+    },
+    {
+      "url": "https://trendshift.io/",
+      "title": "Trendshift - Explore open-source repositories and find some insights",
+      "content": "We analyze activity across a curated collection of open-source repositories to surface what's relevant, rising, and worth your attention. Submit repository.",
+      "score": 0.79310596,
+      "raw_content": null
+    }
+  ],
+  "response_time": 0.85,
+  "request_id": "2ebd4603-49ba-492c-9c73-84fafd0abe16"
+}

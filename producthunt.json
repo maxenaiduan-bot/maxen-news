@@ -1,0 +1,80 @@
+{
+  "query": "Product Hunt trending AI products today",
+  "follow_up_questions": null,
+  "answer": null,
+  "images": [],
+  "results": [
+    {
+      "url": "https://www.producthunt.com/topics/artificial-intelligence",
+      "title": "Artificial Intelligence | Product Hunt",
+      "content": "These categories cover the main ways AI is being built and used today. - **[AI Agents] ... Trending products. Lovable · Screen Studio",
+      "score": 0.7251239,
+      "raw_content": null
+    },
+    {
+      "url": "https://www.producthunt.com/",
+      "title": "Product Hunt – The best new products in tech.",
+      "content": "1. Seedance 2.0 Advanced AI video creation with precise narrative control · 2. Cline CLI 2.0 Parallel agents & headless CI/CD in your terminal · 3. TexTab Turn",
+      "score": 0.70726365,
+      "raw_content": null
+    },
+    {
+      "url": "https://www.producthunt.com/products/hot100-ai",
+      "title": "Hot100.ai: The weekly AI project chart judged by AI | Product Hunt",
+      "content": "The weekly chart for AI-powered projects — judged by Flambo. Discover standout apps built with Cursor, Bolt, v0, Replit, Lovable, Claude Code and more.",
+      "score": 0.6711479,
+      "raw_content": null
+    },
+    {
+      "url": "https://hunted.space/top-products/latest",
+      "title": "Top products on Product Hunt by category and month - Hunted Space",
+      "content": "Top 10 categories. February 2026 · #1 Artificial Intelligence116 · #2 Productivity67 · #3 Developer Tools62 · #4 GitHub29 · #5 SaaS18 · #6 Marketing18 · #7 Design",
+      "score": 0.58664185,
+      "raw_content": null
+    },
+    {
+      "url": "https://www.producthunt.com/categories/ai-generative-media",
+      "title": "The best AI generative media in 2026 | Product Hunt",
+      "content": "Top reviewed AI generative media products ; Midjourney. Create AI generated images from a text prompt ; Image Object Removal API. Remove",
+      "score": 0.51383984,
+      "raw_content": null
+    },
+    {
+      "url": "https://www.producthunt.com/products",
+      "title": "Best products of February 2026 - Product Hunt",
+      "content": "1. HappycapyThe agent-native computer, for the rest of us · 2. SuperXAll-in-one growth OS for serious X creators · 3. Claude by AnthropicA",
+      "score": 0.49802306,
+      "raw_content": null
+    },
+    {
+      "url": "https://www.producthunt.com/categories/ai-chatbots",
+      "title": "The best AI chatbots in 2025 | Top Reviewed on Product Hunt",
+      "content": "Explore the best AI chatbots of 2025 on Product Hunt. Compare top LLMs like ChatGPT, Claude, Perplexity, and more with reviews,",
+      "score": 0.49318945,
+      "raw_content": null
+    },
+    {
+      "url": "https://www.ai-producthunt.com/",
+      "title": "AI Product Hunter",
+      "content": "AI Product Hunter evaluates products launched on Producthunt every day. It is produced by LastCapsule Inc.",
+      "score": 0.48060113,
+      "raw_content": null
+    },
+    {
+      "url": "https://www.producthunt.com/products/curated-list-of-ai-tools",
+      "title": "Curated List of AI Tools - Product Hunt",
+      "content": "In this curated list, you will get 140+ AI Tools links with 44 different category. If you are AI business creator, you can also submit the AI Tools to us,",
+      "score": 0.38623142,
+      "raw_content": null
+    },
+    {
+      "url": "https://www.reddit.com/r/ArtificialInteligence/comments/1r2p8z7/ais_real_impact_on_software_launches_evidence/",
+      "title": "AI's Real Impact on Software Launches: Evidence from Product Hunt",
+      "content": "AI-positioned launches went from ~5% pre-ChatGPT to ~40% by late 2025 — a ~6.5× increase. But total launch volume nearly doubled YoY too. Non-AI",
+      "score": 0.22820848,
+      "raw_content": null
+    }
+  ],
+  "response_time": 0.94,
+  "request_id": "2cbdb241-5fcb-4e3b-8f50-38a8ac713d7a"
+}
